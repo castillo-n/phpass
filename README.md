@@ -19,7 +19,7 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "bordoni/phpass": "dev-main"
+            "castillo-n/phpass": "dev-main"
         }
     }
 
